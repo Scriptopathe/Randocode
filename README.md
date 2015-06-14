@@ -1,0 +1,2 @@
+# Randocode
+Random code generator.
